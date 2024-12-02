@@ -1,5 +1,9 @@
 # Voting Ensemble Technique for Spam Classification
 
+## Author
+
+Charles Lamb
+
 ## Abstract
 
 This paper proposes a voting ensemble technique for spam classification. While previous authors have proposed voting ensemble methods for spam filtering, this research offers an alternative criteria for determining which underlying methods should be included in the ensemble. The suggested approach relies on a training, validation, and test data design, whereby the validation dataset is used to evaluate an optimal ensemble.
